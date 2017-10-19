@@ -1,0 +1,15 @@
+DEP_SIGS=1445125604,181761448222044,95441448222274,340481448220345,167641448221748,200
+COMMAND=g++ -o main.exe main.o ../graph.o ../../my_pri_queue/my_pri_queue.o ../../shortest_path/shortest_path.o
+IMPLICIT_DEPS=../../my_pri_queue/my_pri_queue.o../../shortest_path/shortest_path.o../graph.omain.o
+SIG_METHOD_NAME=C
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+CWD=.
+IMPLICIT_TARGETS=main.exe
+SIGNATURE=1448222274,57732
+BUILD_SIGNATURE=1448222274,57732
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+ARCH=darwin-thread-multi-2level
+META_DEPS=/usr/bin/g++
+SIG_METHOD_IMPLICIT=1
+SORTED_DEPS=/usr/bin/g++../graph.omain.o../../my_pri_queue/my_pri_queue.o../../shortest_path/shortest_path.o
+END=

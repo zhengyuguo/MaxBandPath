@@ -1,0 +1,15 @@
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+IMPLICIT_TARGETS=test.exe
+SIG_METHOD_IMPLICIT=1
+CWD=.
+META_DEPS=/usr/bin/g++
+DEP_SIGS=1445125604,181761448241549,647601448244374,22860
+COMMAND=g++ -o test.exe test.o ../../graph/graph.o
+IMPLICIT_DEPS=../../graph/graph.otest.o
+ARCH=darwin-thread-multi-2level
+SIG_METHOD_NAME=C
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+BUILD_SIGNATURE=1448244374,67808
+SORTED_DEPS=/usr/bin/g++../../graph/graph.otest.o
+SIGNATURE=1448244374,67808
+END=

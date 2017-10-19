@@ -1,0 +1,6 @@
+INCLUDES=edge.hpp node.hpp
+SYSTEM_INCLUDES=iostream prettyprint.hpp vector
+C_MD5_SUM=MxR8HM31amb4Gv0MKrHI1g
+SIGNATURE=1448316218,1435
+LIBS=
+END=

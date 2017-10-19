@@ -1,0 +1,6 @@
+INCLUDES=node.hpp
+SYSTEM_INCLUDES=cstdlib iostream
+LIBS=
+C_MD5_SUM=Tcm/ghnsObsqXL6iRMh9tQ
+SIGNATURE=1448265804,373
+END=

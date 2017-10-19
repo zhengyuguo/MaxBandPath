@@ -1,0 +1,15 @@
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+DEP_SIGS=1445125604,181761448265371,843881448266174,297041448266173,82744
+SIG_METHOD_NAME=C
+COMMAND=g++ -o main2.exe main2.o ../../graph/graph.o ../../max_bandwidth/max_bandwidth.o
+META_DEPS=/usr/bin/g++
+ARCH=darwin-thread-multi-2level
+IMPLICIT_DEPS=../../graph/graph.o../../max_bandwidth/max_bandwidth.omain2.o
+SIG_METHOD_IMPLICIT=1
+IMPLICIT_TARGETS=main2.exe
+CWD=.
+SIGNATURE=1448266174,137700
+SORTED_DEPS=/usr/bin/g++../../graph/graph.omain2.o../../max_bandwidth/max_bandwidth.o
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+BUILD_SIGNATURE=1448266174,137700
+END=

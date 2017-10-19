@@ -1,0 +1,6 @@
+LIBS=
+C_MD5_SUM=t+AnPwijDegecJ1eBshIgA
+SIGNATURE=1446840959,1091
+SYSTEM_INCLUDES=seqan/index.h seqan/seq_io.h
+INCLUDES=
+END=

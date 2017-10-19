@@ -1,0 +1,6 @@
+LIBS=
+SIGNATURE=1448371421,1539
+C_MD5_SUM=n5CfAABdsKS4NKiHDbbM5g
+INCLUDES=graph.hpp
+SYSTEM_INCLUDES=algorithm cstdlib prettyprint.hpp
+END=

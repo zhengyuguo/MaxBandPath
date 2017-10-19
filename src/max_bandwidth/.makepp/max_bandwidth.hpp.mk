@@ -1,0 +1,6 @@
+LIBS=
+SYSTEM_INCLUDES=vector
+SIGNATURE=1448267940,333
+INCLUDES=graph.hpp node.hpp
+C_MD5_SUM=vFk7vdjzQwLYhFfAzzXZzg
+END=

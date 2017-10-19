@@ -1,0 +1,19 @@
+# Source code are in `src` directory
+
+# Compilation
+
+Set up an appropriate environment for compilation. `Makepp` is required for compilation. 
+
+~~~
+source bashrc
+~~~
+
+The code can be compiled with [makepp](http://makepp.sourceforge.net/). 
+
+To compile the library `lib/libpycppskeleton.a`, depending on the OS, run the following commands
+
+~~~
+source bashrc
+makepp
+~~~
+

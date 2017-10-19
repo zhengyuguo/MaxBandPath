@@ -1,0 +1,15 @@
+ARCH=darwin-thread-multi-2level
+META_DEPS=/usr/bin/gccstdaln.csysstdint.hstdio.hstdlib.hstring.huser./stdaln.h
+SIG_METHOD_NAME=C
+CWD=.
+SIG_METHOD_IMPLICIT=1
+INCLUDE_PATHS=sys/usr/local/includeuser/usr/local/include
+SORTED_DEPS=/usr/bin/gccstdaln.cstdaln.h
+SIGNATURE=1446831099,50432
+IMPLICIT_DEPS=
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+IMPLICIT_TARGETS=stdaln.o
+COMMAND=gcc  -g -Wall  -c stdaln.c -o stdaln.o
+BUILD_SIGNATURE=1446831099,50432
+DEP_SIGS=1445125584,18176tVbIGEYwtdOZeSmuvgLeSABDTRAPPf5t5KYCmNUWcsqg
+END=

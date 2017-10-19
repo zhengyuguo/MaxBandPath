@@ -1,0 +1,89 @@
+3/usr/local/bin/mpp
+VERSION2.05.18.2darwin-thread-multi-2level
+LOAD140344943865584rootmakeppfile.mk140344960311872/users/zhengyuguo/zhengyuguo/course/csce629/project140344960311872
+TRY140344943865584
+USEdefault rule
+DEPEND140344943865584
+UP_TO_DATE140344943865584
+PREBUILD140344944148912standard_defs.mk140344960311872/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+TRY140344944148912
+USEdefault rule
+DEPEND140344944148912
+UP_TO_DATE140344944148912
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+PREBUILD140344944194280objects.mk140344960311872/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+TRY140344944194280
+USEdefault rule
+DEPEND140344944194280
+UP_TO_DATE140344944194280
+LOAD_INCL140344944194280/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+LOAD_DEFAULT140344960312568src140344960311872
+LOAD_INCL140344964856744makepp_builtin_rules.mk140344943610400/usr/local/cellar/makepp/2.0/share/makepp140344964847600makepp_default_makefile.mk140344943610400
+LOAD_END140344964847600
+LOAD140344964924264makefile140344964919112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph140344964919112
+TRY140344964924264
+USEdefault rule
+DEPEND140344964924264
+UP_TO_DATE140344964924264
+PREBUILD140344964919256internal_dir.mk140344960312568/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph/makefile:1
+TRY140344964919256
+USEdefault rule
+DEPEND140344964919256
+UP_TO_DATE140344964919256
+LOAD_INCL140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph/makefile:1
+PREBUILD140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344964856744140344964924264
+LOAD_END140344964924264
+LOAD140344965023360makefile140344964919544/users/zhengyuguo/zhengyuguo/course/csce629/project/src/my_pri_queue140344964919544
+TRY140344965023360
+USEdefault rule
+DEPEND140344965023360
+UP_TO_DATE140344965023360
+PREBUILD140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/my_pri_queue/makefile:1
+LOAD_INCL140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/my_pri_queue/makefile:1
+PREBUILD140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344964856744140344965023360
+LOAD_END140344965023360
+LOAD140344965069144makefile140344964919688/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node140344964919688
+TRY140344965069144
+USEdefault rule
+DEPEND140344965069144
+UP_TO_DATE140344965069144
+PREBUILD140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node/makefile:1
+LOAD_INCL140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node/makefile:1
+PREBUILD140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344964856744140344965069144
+LOAD_END140344965069144
+LOAD140344953303784makefile140344960313216/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op140344960313216
+TRY140344953303784
+USEdefault rule
+DEPEND140344953303784
+UP_TO_DATE140344953303784
+PREBUILD140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op/makefile:1
+LOAD_INCL140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op/makefile:1
+PREBUILD140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344964856744140344953303784
+LOAD_END140344953303784
+LOAD140344953332856makefile140344964919808/users/zhengyuguo/zhengyuguo/course/csce629/project/src/shortest_path140344964919808
+TRY140344953332856
+USEdefault rule
+DEPEND140344953332856
+UP_TO_DATE140344953332856
+PREBUILD140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/shortest_path/makefile:1
+LOAD_INCL140344964919256/users/zhengyuguo/zhengyuguo/course/csce629/project/src/shortest_path/makefile:1
+PREBUILD140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344944148912/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140344964856744140344953332856
+LOAD_END140344953332856
+LOAD_INCL140344964856744140344943865584
+LOAD_END140344943865584
+TRY140344953257424all140344960313216
+USEdefault rule
+DEPEND140344953257424
+BUILD_PHONY140344953257424
+SUCCESSdefault rule140344953257424
+N_FILES010

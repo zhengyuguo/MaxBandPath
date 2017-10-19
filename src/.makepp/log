@@ -1,0 +1,96 @@
+3/usr/local/bin/mpp
+VERSION2.05.18.2darwin-thread-multi-2level
+LOAD140710705628496rootmakeppfile.mk140710696119192/users/zhengyuguo/zhengyuguo/course/csce629/project140710696119192
+TRY140710705628496
+USEdefault rule
+DEPEND140710705628496
+UP_TO_DATE140710705628496
+PREBUILD140710698563456standard_defs.mk140710696119192/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+TRY140710698563456
+USEdefault rule
+DEPEND140710698563456
+UP_TO_DATE140710698563456
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+PREBUILD140710698669200objects.mk140710696119192/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+TRY140710698669200
+USEdefault rule
+DEPEND140710698669200
+UP_TO_DATE140710698669200
+LOAD_INCL140710698669200/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+LOAD_DEFAULT140710696119888src140710696119192
+LOAD_INCL140710705830616makepp_builtin_rules.mk140710698646488/usr/local/cellar/makepp/2.0/share/makepp140710705809696makepp_default_makefile.mk140710698646488
+LOAD_END140710705809696
+LOAD140710705859712makefile140710720639824/users/zhengyuguo/zhengyuguo/course/csce629/project/src/edge140710720639824
+TRY140710705859712
+USEdefault rule
+DEPEND140710705859712
+UP_TO_DATE140710705859712
+PREBUILD140710720640112internal_dir.mk140710696119888/users/zhengyuguo/zhengyuguo/course/csce629/project/src/edge/makefile:1
+TRY140710720640112
+USEdefault rule
+DEPEND140710720640112
+UP_TO_DATE140710720640112
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/edge/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710705859712
+LOAD_END140710705859712
+LOAD140710705956992makefile140710720639968/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph140710720639968
+TRY140710705956992
+USEdefault rule
+DEPEND140710705956992
+UP_TO_DATE140710705956992
+PREBUILD140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph/makefile:1
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/graph/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710705956992
+LOAD_END140710705956992
+LOAD140710705985168makefile140710720640400/users/zhengyuguo/zhengyuguo/course/csce629/project/src/max_bandwidth140710720640400
+TRY140710705985168
+USEdefault rule
+DEPEND140710705985168
+UP_TO_DATE140710705985168
+PREBUILD140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/max_bandwidth/makefile:1
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/max_bandwidth/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710705985168
+LOAD_END140710705985168
+LOAD140710706062360makefile140710720644680/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node140710720644680
+TRY140710706062360
+USEdefault rule
+DEPEND140710706062360
+UP_TO_DATE140710706062360
+PREBUILD140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node/makefile:1
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/node/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710706062360
+LOAD_END140710706062360
+LOAD140710706111368makefile140710720644824/users/zhengyuguo/zhengyuguo/course/csce629/project/src/pri_queue140710720644824
+TRY140710706111368
+USEdefault rule
+DEPEND140710706111368
+UP_TO_DATE140710706111368
+PREBUILD140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/pri_queue/makefile:1
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/pri_queue/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710706111368
+LOAD_END140710706111368
+LOAD140710706144160makefile140710720644968/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op140710720644968
+TRY140710706144160
+USEdefault rule
+DEPEND140710706144160
+UP_TO_DATE140710706144160
+PREBUILD140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op/makefile:1
+LOAD_INCL140710720640112/users/zhengyuguo/zhengyuguo/course/csce629/project/src/set_op/makefile:1
+PREBUILD140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710698563456/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140710705830616140710706144160
+LOAD_END140710706144160
+LOAD_INCL140710705830616140710705628496
+LOAD_END140710705628496
+*** error: no targets specified and no default target in makefile `/usr/local/cellar/makepp/2.0/share/makepp/makepp_default_makefile.mk'
+N_FILES000

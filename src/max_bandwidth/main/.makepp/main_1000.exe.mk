@@ -1,0 +1,15 @@
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+CWD=.
+IMPLICIT_TARGETS=main_1000.exe
+DEP_SIGS=1445125604,181761448371444,872041448346223,174041448344192,65984
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+SIGNATURE=1448371444,128968
+ARCH=darwin-thread-multi-2level
+BUILD_SIGNATURE=1448371444,128968
+SORTED_DEPS=/usr/bin/g++../../graph/graph.omain_1000.o../max_bandwidth.o
+IMPLICIT_DEPS=../../graph/graph.o../max_bandwidth.omain_1000.o
+SIG_METHOD_NAME=C
+SIG_METHOD_IMPLICIT=1
+META_DEPS=/usr/bin/g++
+COMMAND=g++ -o main_1000.exe main_1000.o ../../graph/graph.o ../max_bandwidth.o
+END=

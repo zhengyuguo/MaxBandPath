@@ -1,0 +1,96 @@
+3/usr/local/bin/mpp
+VERSION2.05.18.2darwin-thread-multi-2level
+LOAD140455019648296rootmakeppfile.mk140455028741160/users/gany/desktop/tiancai140455028741160
+TRY140455019648296
+USEdefault rule
+DEPEND140455019648296
+UP_TO_DATE140455019648296
+PREBUILD140455045013112standard_defs.mk140455028741160/users/gany/desktop/tiancai/rootmakeppfile.mk:1
+TRY140455045013112
+USEdefault rule
+DEPEND140455045013112
+UP_TO_DATE140455045013112
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/rootmakeppfile.mk:1
+PREBUILD140455045020040objects.mk140455028741160/users/gany/desktop/tiancai/rootmakeppfile.mk:2
+TRY140455045020040
+USEdefault rule
+DEPEND140455045020040
+UP_TO_DATE140455045020040
+LOAD_INCL140455045020040/users/gany/desktop/tiancai/rootmakeppfile.mk:2
+LOAD_DEFAULT140455045020400src140455028741160
+LOAD_INCL140455033817144makepp_builtin_rules.mk140455033684640/usr/local/cellar/makepp/2.0/share/makepp140455033807808makepp_default_makefile.mk140455033684640
+LOAD_END140455033807808
+LOAD140455045033688makefile140455019669536/users/gany/desktop/tiancai/src/regular_search140455019669536
+TRY140455045033688
+USEdefault rule
+DEPEND140455045033688
+UP_TO_DATE140455045033688
+PREBUILD140455019669200internal_dir.mk140455045020400/users/gany/desktop/tiancai/src/regular_search/makefile:1
+TRY140455019669200
+USEdefault rule
+DEPEND140455019669200
+UP_TO_DATE140455019669200
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/regular_search/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455045033688
+LOAD_END140455045033688
+LOAD140455035585480makefile140455019669680/users/gany/desktop/tiancai/src/seqan_api140455019669680
+TRY140455035585480
+USEdefault rule
+DEPEND140455035585480
+UP_TO_DATE140455035585480
+PREBUILD140455019669200/users/gany/desktop/tiancai/src/seqan_api/makefile:1
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/seqan_api/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455035585480
+LOAD_END140455035585480
+LOAD140455033887832makefile140455019669824/users/gany/desktop/tiancai/src/spliced_search140455019669824
+TRY140455033887832
+USEdefault rule
+DEPEND140455033887832
+UP_TO_DATE140455033887832
+PREBUILD140455019669200/users/gany/desktop/tiancai/src/spliced_search/makefile:1
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/spliced_search/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455033887832
+LOAD_END140455033887832
+LOAD140455033918560makefile140455033911392/users/gany/desktop/tiancai/src/spliced_search/exon140455033911392
+TRY140455033918560
+USEdefault rule
+DEPEND140455033918560
+UP_TO_DATE140455033918560
+PREBUILD140455019669200/users/gany/desktop/tiancai/src/spliced_search/exon/makefile:1
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/spliced_search/exon/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455033918560
+LOAD_END140455033918560
+LOAD140455033970112makefile140455033911536/users/gany/desktop/tiancai/src/spliced_search/gapandmm140455033911536
+TRY140455033970112
+USEdefault rule
+DEPEND140455033970112
+UP_TO_DATE140455033970112
+PREBUILD140455019669200/users/gany/desktop/tiancai/src/spliced_search/gapandmm/makefile:1
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/spliced_search/gapandmm/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455033970112
+LOAD_END140455033970112
+LOAD140455019852440makefile140455033911800/users/gany/desktop/tiancai/src/spliced_search/word140455033911800
+TRY140455019852440
+USEdefault rule
+DEPEND140455019852440
+UP_TO_DATE140455019852440
+PREBUILD140455019669200/users/gany/desktop/tiancai/src/spliced_search/word/makefile:1
+LOAD_INCL140455019669200/users/gany/desktop/tiancai/src/spliced_search/word/makefile:1
+PREBUILD140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455045013112/users/gany/desktop/tiancai/src/internal_dir.mk:1
+LOAD_INCL140455033817144140455019852440
+LOAD_END140455019852440
+LOAD_INCL140455033817144140455019648296
+LOAD_END140455019648296
+*** error: Can't use an undefined value as a HASH reference at /usr/local/bin/mpp line 1162.
+N_FILES000

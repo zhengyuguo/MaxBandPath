@@ -1,0 +1,80 @@
+3/usr/local/bin/makepp
+VERSION2.05.18.2darwin-thread-multi-2level
+LOAD140634283464176rootmakeppfile.mk140634308802528/users/zhengyuguo/zhengyuguo/course/csce629/project140634308802528
+TRY140634283464176
+USEdefault rule
+DEPEND140634283464176
+UP_TO_DATE140634283464176
+PREBUILD140634283467056standard_defs.mk140634308802528/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+TRY140634283467056
+USEdefault rule
+DEPEND140634283467056
+UP_TO_DATE140634283467056
+LOAD_INCL140634283467056/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:1
+PREBUILD140634294342760objects.mk140634308802528/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+TRY140634294342760
+USEdefault rule
+DEPEND140634294342760
+UP_TO_DATE140634294342760
+LOAD_INCL140634294342760/users/zhengyuguo/zhengyuguo/course/csce629/project/rootmakeppfile.mk:2
+LOAD_DEFAULT140634294343120src140634308802528
+LOAD_INCL140634294399064makepp_builtin_rules.mk140634294288032/usr/local/cellar/makepp/2.0/share/makepp140634294383072makepp_default_makefile.mk140634294288032
+LOAD_END140634294383072
+LOAD140634317444864makefile140634294465752/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function140634294465752
+TRY140634317444864
+USEdefault rule
+DEPEND140634317444864
+UP_TO_DATE140634317444864
+PREBUILD140634294465944internal_dir.mk140634294343120/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/makefile:1
+TRY140634294465944
+USEdefault rule
+DEPEND140634294465944
+UP_TO_DATE140634294465944
+LOAD_INCL140634294465944/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/makefile:1
+PREBUILD140634283467056/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140634283467056/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:1
+LOAD_INCL140634294399064140634317444864
+LOAD_END140634317444864
+LOAD_INCL140634294399064140634283464176
+LOAD_END140634283464176
+TRY140634294365136all140634308802528
+USEdefault rule
+DEPEND140634294365136140634294503608helper.o140634294465752
+TRY140634294503608
+USE/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:5(helper_function)
+SCAN_INFO140634294503608
+LEX_RULE140634294503608info not cached
+PARSEg++ -std=c++11 -I/users/zhengyuguo/zhengyuguo/course/csce629/project/include -c helper.cpp -o helper.o140634294465752/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:5(helper_function)
+BUILD_NOT140634317582616g++140634317582256/usr/bin
+TRY140634294504400helper.cpp140634294465752
+USEdefault rule
+DEPEND140634294504400
+UP_TO_DATE140634294504400
+INCL140634294504400140634294504544helper.hpp140634294465752
+TRY140634294504544
+USEdefault rule
+DEPEND140634294504544
+UP_TO_DATE140634294504544
+LOAD_DEFAULT140634317431840include140634308802528
+LOAD_INCL140634294399064140634294383072
+LOAD_END140634294383072
+*** warning: can't locate file GapAndMM.hpp, included from `/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/helper.hpp'
+Include path [user] is:
+  [including file's directory]
+  /users/zhengyuguo/zhengyuguo/course/csce629/project/include
+  /usr/local/include
+*** warning: can't locate file seqan_api.hpp, included from `/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/helper.hpp'
+Include path [user] is:
+  [including file's directory]
+  /users/zhengyuguo/zhengyuguo/course/csce629/project/include
+  /usr/local/include
+*** warning: can't locate file stdaln.h, included from `/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/helper.hpp'
+Include path [user] is:
+  [including file's directory]
+  /users/zhengyuguo/zhengyuguo/course/csce629/project/include
+  /usr/local/include
+DEPEND140634294503608140634317582616140634294504400140634294504544
+BUILD_NONE140634294503608
+*** error: Failed to build target `/users/zhengyuguo/zhengyuguo/course/csce629/project/src/helper_function/helper.o' [1]
+RULE_FAILED/users/zhengyuguo/zhengyuguo/course/csce629/project/src/internal_dir.mk:5(helper_function)
+N_FILES001

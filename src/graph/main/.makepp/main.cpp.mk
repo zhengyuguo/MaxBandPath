@@ -1,0 +1,6 @@
+LIBS=
+C_MD5_SUM=6Xnz0hmTjAMnb90BiZ64DA
+SYSTEM_INCLUDES=cstdlib iostream prettyprint.hpp
+INCLUDES=graph.hpp
+SIGNATURE=1448266205,393
+END=

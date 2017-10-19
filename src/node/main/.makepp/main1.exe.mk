@@ -1,0 +1,15 @@
+SORTED_DEPS=/usr/bin/g++../../graph/graph.omain1.o../../max_bandwidth/max_bandwidth.o
+ARCH=darwin-thread-multi-2level
+IMPLICIT_DEPS=../../graph/graph.o../../max_bandwidth/max_bandwidth.omain1.o
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+SIG_METHOD_IMPLICIT=1
+SIGNATURE=1448266376,137844
+SIG_METHOD_NAME=C
+COMMAND=g++ -o main1.exe main1.o ../../graph/graph.o ../../max_bandwidth/max_bandwidth.o
+META_DEPS=/usr/bin/g++
+BUILD_SIGNATURE=1448266376,137844
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+CWD=.
+IMPLICIT_TARGETS=main1.exe
+DEP_SIGS=1445125604,181761448266375,856281448266376,160201448266376,83608
+END=

@@ -1,0 +1,15 @@
+ARCH=darwin-thread-multi-2level
+COMMAND=g++ -o main.exe main.o ../../graph/graph.o
+SIG_METHOD_IMPLICIT=1
+CWD=.
+IMPLICIT_TARGETS=main.exe
+BUILD_SIGNATURE=1448245683,84892
+DEP_SIGS=1445125604,181761448241549,647601448245683,34112
+SIGNATURE=1448245683,84892
+SIG_METHOD_NAME=C
+IMPLICIT_DEPS=../../graph/graph.omain.o
+INCLUDE_PATHS=lib/usr/local/lib/usr/libsys/usr/local/includeuser/usr/local/include
+INCLUDE_SFXS=lib.la.so.sa.a.sl
+META_DEPS=/usr/bin/g++
+SORTED_DEPS=/usr/bin/g++../../graph/graph.omain.o
+END=

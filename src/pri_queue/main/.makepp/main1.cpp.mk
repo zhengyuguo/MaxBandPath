@@ -1,0 +1,6 @@
+C_MD5_SUM=a74lkzbYlPKTRFGimSJdWw
+SYSTEM_INCLUDES=cstdlib iostream
+LIBS=
+SIGNATURE=1448266009,461
+INCLUDES=node.hpp pri_queue.hpp
+END=

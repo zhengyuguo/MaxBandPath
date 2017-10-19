@@ -1,0 +1,6 @@
+LIBS=
+INCLUDES=stdaln.h
+C_MD5_SUM=tVbIGEYwtdOZeSmuvgLeSA
+SYSTEM_INCLUDES=stdint.h stdio.h stdlib.h string.h
+SIGNATURE=1446756817,37799
+END=

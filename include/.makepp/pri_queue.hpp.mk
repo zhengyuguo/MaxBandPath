@@ -1,0 +1,6 @@
+LIBS=
+SYSTEM_INCLUDES=algorithm prettyprint.hpp vector
+SIGNATURE=1448266144,2070
+INCLUDES=
+C_MD5_SUM=zRk1WHsgU6hD+R/SPh6gzQ
+END=
